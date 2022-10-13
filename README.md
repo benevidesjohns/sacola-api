@@ -29,6 +29,11 @@
 - [Gradle](https://gradle.org/install/)
 - [Postman](https://www.postman.com/downloads/)
 
+<p>Obs.: Clique 
+  <a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view">aqui</a> 
+  para baixar o arquivo (collection) com os métodos de requisição criados para simulação.<br>
+Em seguida, importe no Postman.<p>
+
 <p>Dependências:</p>
 
 - ``` spring-boot-starter-web - v2.7.4```
